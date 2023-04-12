@@ -2290,7 +2290,7 @@ div a i {
 
 body{
 	background-color: #0c0c0c;
-<<<<<<< HEAD
+
 }
 
 
@@ -2399,6 +2399,11 @@ img, video {
 
 .text-center {
 	text-align: center;
-=======
->>>>>>> e009bd7e52a5243fa3e0df6211574a2180a7cb1c
+
 }
+@media only screen and (max-width: 768px) {
+	/* For mobile phones: */
+	.grid {
+		display:block;
+	}
+  }
