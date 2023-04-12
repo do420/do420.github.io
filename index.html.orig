@@ -6,6 +6,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="static/assets/css/main.css" />
+<<<<<<< HEAD
 		<noscript><link rel="stylesheet" href="/css/noscript.css" /></noscript>
 		<script src="https://kit.fontawesome.com/7907848467.js" crossorigin="anonymous"></script>
 		<link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
@@ -17,6 +18,7 @@
 			gtag('js', new Date());
 			gtag('config', 'G-9XJWQ48G3G');
 		</script>
+=======
 		<noscript><link rel="stylesheet" href=/css/noscript.css" /></noscript>
 		<script src="https://kit.fontawesome.com/7907848467.js" crossorigin="anonymous"></script>
 		<link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
@@ -29,6 +31,7 @@
 
   gtag('config', 'G-9XJWQ48G3G');
 </script>
+>>>>>>> e009bd7e52a5243fa3e0df6211574a2180a7cb1c
 	</head>
 	<body class="is-preload">
 		
@@ -50,9 +53,16 @@
 					
 							<article id="home" class="panel intro">
 								<header>
+<<<<<<< HEAD
 									<h1 style="text-align:center;font-weight: 400;">Deniz Özcan</h1>
 									<div class="bar"></div>
-									<p style="text-align:center;font-weight: 400;">Welcome to my website!</p>									
+									<p style="text-align:center;font-weight: 400;">Welcome to my website!</p>
+=======
+			<h1 style="text-align:center;font-weight: 400;">Deniz Özcan</h1>
+			<div class="bar"></div>
+			<p style="text-align:center;font-weight: 400;">Welcome to my website!</p>
+>>>>>>> e009bd7e52a5243fa3e0df6211574a2180a7cb1c
+									
 								</header>
 								
 							</article>
@@ -101,14 +111,23 @@
 										
 									</ul>
 								</section>
+<<<<<<< HEAD
+
 								<h5>Licences & Certifications</h5>
 								<div class="bar"></div>
 								<section>
 									<ul>
-										<li><a href="/certifications">click here to view</a></li>
+										<li><a href="">click here to view</a></li>
 									</ul>
 								</section>
+
+
+=======
+>>>>>>> e009bd7e52a5243fa3e0df6211574a2180a7cb1c
 							</article>
+
+						
+
 							<article id="socials" class="panel">
 								
 								<h2>Socials</h2>
